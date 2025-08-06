@@ -1,9 +1,5 @@
 package br.com.heishoppe.ordering.domain.entity;
 
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
 import java.time.LocalDate;
 import java.time.OffsetDateTime;
 import java.util.Objects;
